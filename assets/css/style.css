@@ -1,6 +1,7 @@
 .jumbo {
-	background-image: url(../images/hogwarts.jpg);
+	background-color: white;
 	background-position: center;
+	border-color: purple;
 
 }
 
@@ -10,4 +11,7 @@ body {
 
 panel-default{
 	opacity: .7px;
+}
+.wrap {
+	opacity: .5px;
 }
